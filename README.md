@@ -2,8 +2,7 @@
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-
-<img align="right" alt="GIF" src="(https://github.com/priyanshu0463/priyanshu0463/files/13978096/README.md)" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
   
