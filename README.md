@@ -2,7 +2,8 @@
 
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-![Uplo[README.md](https://github.com/priyanshu0463/priyanshu0463/files/13978096/README.md)ading code.gif…]()
+
+<img align="right" alt="GIF" src="(https://github.com/priyanshu0463/priyanshu0463/files/13978096/README.md)" width="500" height="320" />
 
   
   
