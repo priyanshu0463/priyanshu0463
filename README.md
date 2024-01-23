@@ -2,7 +2,7 @@
 
 I'm a passionate self-taught full stack developer and an aspiring engineering student from India. My love for software development revolves around bringing ideas to life with elegant interfaces. I prioritize the user experience, architectural design, and code quality in everything I build.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="300" style="border-radius: 10px;" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="300" style="border-radius: 20px;" />
 
 ## 💼 Open for Opportunities
 
@@ -13,9 +13,9 @@ I'm a passionate self-taught full stack developer and an aspiring engineering st
 
 🌐 Ask me anything! I'm here to help and share knowledge.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshu_0rie)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_m_PriyanshuK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukp0463)
 
 
 ## Languages and Tools
