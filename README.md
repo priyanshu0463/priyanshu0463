@@ -1,15 +1,16 @@
-hi, i'm [Priyanshu Kumar](), a passionate self-taught full stack developer and an inspiring engineering Student from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+# Hi there! 👋 I'm Priyanshu Kumar
 
-i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm a passionate self-taught full stack developer and an aspiring engineering student from India. My love for software development revolves around bringing ideas to life with elegant interfaces. I prioritize the user experience, architectural design, and code quality in everything I build.
 
+![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any work? do reach, [email](mailto:priyanshukp0463@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+## 💼 Open for Opportunities
+If you have any interesting projects or collaborations, feel free to [email me](mailto:priyanshukp0463@gmail.com). I'm always excited to take on new challenges!
 
-**languages and tools:**  
+## 💬 Let's Connect
+Ask me anything! I'm here to help and share knowledge.
 
+## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -19,23 +20,19 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## 🌟 GitHub Stats
+<!-- Include your GitHub stats here -->
 
+## 🚧 My Todoist Stats
+- 🏆  80 Karma Points
+- 🌸  Completed 5 tasks today
+- ✅  Completed 90 tasks so far
+- ⏳  Longest streak is 10 days
 
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  80 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 90 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+## ☕ Buy Me A Coffee
+If you like what I do, consider [buying me a coffee](<Your Buy Me A Coffee Link>).
 
 
 
-
-
+<!-- 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
