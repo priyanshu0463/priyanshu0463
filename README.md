@@ -6,11 +6,7 @@ I'm a passionate self-taught full stack developer and an aspiring engineering st
 
 ## 💼 Open for Opportunities
 
-🚀 Are you working on exciting projects or looking for a dedicated collaborator? Let's connect and create something amazing together! Whether it's web development, app creation, or any innovative tech endeavor, I'm ready to contribute my skills and passion.
-
-📧 Feel free to [email me](mailto:priyanshukp0463@gmail.com) with details about your project or collaboration proposal. I thrive on new challenges and am eager to bring my unique perspective to your team.
-
-Let's turn ideas into reality and make a positive impact in the world of technology! 🌐✨
+🚀 Excited about innovative projects! If you have interesting collaborations or opportunities, [email me](mailto:priyanshukp0463@gmail.com). Let's create something amazing together! 💻✨
 
 
 ## 💬 Let's Connect
