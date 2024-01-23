@@ -10,7 +10,13 @@ I'm a passionate self-taught full stack developer and an aspiring engineering st
 
 
 ## 💬 Let's Connect
-Ask me anything! I'm here to help and share knowledge.
+
+🌐 Ask me anything! I'm here to help and share knowledge.
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_username/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username/)
+
 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
