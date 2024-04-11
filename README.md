@@ -1,8 +1,9 @@
+![code](https://example.com/your-image-url.png){:height="200px"}
+
 # Hi there! 👋 I'm Priyanshu Kumar
 
 I'm a passionate self-taught full stack developer and an aspiring engineering student from India. My love for software development revolves around bringing ideas to life with elegant interfaces. I prioritize the user experience, architectural design, and code quality in everything I build.
 
-![code](https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78)
 
 
 ## 💼 Open for Opportunities
