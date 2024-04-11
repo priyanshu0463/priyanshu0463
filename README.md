@@ -2,7 +2,8 @@
 
 I'm a passionate self-taught full stack developer and an aspiring engineering student from India. My love for software development revolves around bringing ideas to life with elegant interfaces. I prioritize the user experience, architectural design, and code quality in everything I build.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="300" style="border-radius: 20px; position:relaive"  />
+![code](https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78)
+
 
 ## 💼 Open for Opportunities
 
