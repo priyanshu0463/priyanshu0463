@@ -1,6 +1,5 @@
-<img alt="GIF" src="https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78" width="1000" height="200" style="border-radius: 20px; position:relaive"  />
-
 # Hi there! 👋 I'm Priyanshu Kumar
+<img align="right" alt="GIF" src="https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78" width="400" height="200" style="border-radius: 20px; position:relaive"  />
 
 I'm a passionate self-taught full stack developer and an aspiring engineering student from India. My love for software development revolves around bringing ideas to life with elegant interfaces. I prioritize the user experience, architectural design, and code quality in everything I build.
 
