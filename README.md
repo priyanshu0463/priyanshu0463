@@ -1,4 +1,4 @@
-![code](https://example.com/your-image-url.png){:height="200px"}
+![code](https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78){:height="200px"}
 
 # Hi there! 👋 I'm Priyanshu Kumar
 
