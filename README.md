@@ -1,4 +1,7 @@
-<img align="right" alt="GIF" src="https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78" width="1000"  style="border-radius: 20px; position:relaive"  />
+<img alt="GIF" src="https://github.com/priyanshu0463/priyanshu0463/assets/112779111/68f1ca46-b662-4536-9ea6-4a53d16dda78" 
+     width="1000" 
+     height="500" 
+     style="border-radius: 20px; object-fit: cover;">
 
 # Hi there! 👋 I'm Priyanshu Kumar
 
