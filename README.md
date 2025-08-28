@@ -23,7 +23,7 @@
                     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<h1 align="center">◢◤ PRIYANSHU KUMAR ◢◤</h1>
+# ◢◤ PRIYANSHU KUMAR ◢◤
 
 ```
     ⟨ FULL STACK DEVELOPER • ENGINEERING STUDENT • CODE ARCHITECT ⟩
@@ -87,9 +87,9 @@
 ```
 
 [![GitHub](https://img.shields.io/badge/◢◤_GITHUB_◢◤-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshu0463)
-[![LinkedIn](https://img.shields.io/badge/◢◤_LINKEDIN_◢◤-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukp0463)
-[![Twitter](https://img.shields.io/badge/◢◤_TWITTER_◢◤-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_m_PriyanshuK)
-[![Instagram](https://img.shields.io/badge/◢◤_INSTAGRAM_◢◤-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshu_0rie)
+[![LinkedIn](https://img.shields.io/badge/◢◤_LINKEDIN_◢◤-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukp0463)
+[![Twitter](https://img.shields.io/badge/◢◤_TWITTER_◢◤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_m_PriyanshuK)
+[![Instagram](https://img.shields.io/badge/◢◤_INSTAGRAM_◢◤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshu_0rie)
 
 </div>
 
@@ -105,44 +105,28 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-</table>
+### Frontend Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## ⟨▶ PERFORMANCE METRICS ⟩
 
@@ -159,26 +143,67 @@
     ╰─────────────────────────────────────────────────────╯
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu0463&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu0463&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0463&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0463&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu0463&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+## ⟨▶ ACTIVITY MATRIX ⟩
+
+<div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                 ◦ CONTRIBUTION GRAPH ◦                   ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu0463&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true" alt="Contribution Graph" />
 
 </div>
 
 ## ⟨▶ PRODUCTIVITY DASHBOARD ⟩
 
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                    ◦ TODOIST MATRIX ◦                    ║
+║                   ◦ CODING METRICS ◦                     ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  ◢◤ KARMA POINTS ────────────────────────── 80 ⚡        ║
-║  ◢◤ TODAY'S TASKS ──────────────────────────  5 ✓        ║
-║  ◢◤ TOTAL COMPLETED ────────────────────────  90 ██      ║
-║  ◢◤ LONGEST STREAK ─────────────────────────  10 🔥      ║
+║  ◢◤ REPOSITORIES ────────────────────────── 25+ 📁       ║
+║  ◢◤ COMMITS THIS YEAR ──────────────────── 500+ 🔥       ║
+║  ◢◤ PULL REQUESTS ─────────────────────────  50+ ⚡       ║
+║  ◢◤ ISSUES RESOLVED ───────────────────────  30+ ✓       ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+## ⟨▶ FEATURED PROJECTS ⟩
+
+<div align="center">
+
+```
+    ┌─────────────────────────────────────────────────────┐
+    │                                                     │
+    │  🚀 SHOWCASING INNOVATION                           │
+    │                                                     │
+    │     ▸ FULL STACK APPLICATIONS                       │
+    │     ▸ RESPONSIVE WEB DESIGNS                        │
+    │     ▸ API INTEGRATIONS                              │
+    │     ▸ DATABASE ARCHITECTURES                        │
+    │                                                     │
+    └─────────────────────────────────────────────────────┘
+```
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshu0463&repo=your-project-name&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/priyanshu0463/your-project-name)
+
+</div>
 
 ## ⟨▶ SUPPORT PROTOCOL ⟩
 
@@ -196,7 +221,8 @@
     └─────────────────────────────────────────────────────┘
 ```
 
-[![Buy Me A Coffee](https://img.shields.io/badge/◢◤_BUY_ME_A_COFFEE_◢◤-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/priyanshu0463)
+[![Buy Me A Coffee](https://img.shields.io/badge/◢◤_BUY_ME_A_COFFEE_◢◤-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyanshu0463)
+[![PayPal](https://img.shields.io/badge/◢◤_PAYPAL_◢◤-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/priyanshu0463)
 
 </div>
 
@@ -216,6 +242,6 @@
     ∘₊✧ ─────────────────── ✧₊∘∘₊✧ ─────────────────── ✧₊∘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshu0463&style=for-the-badge&color=black&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu0463&style=for-the-badge&color=black&label=DIGITAL_VISITORS)
 
 </div>
