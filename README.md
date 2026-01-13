@@ -1,247 +1,50 @@
-```
-    ██████╗  █████╗ ██████╗ ██╗  ██╗    ███╗   ███╗ █████╗ ████████╗████████╗███████╗██████╗ 
-    ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ████╗ ████║██╔══██╗╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗
-    ██║  ██║███████║██████╔╝█████╔╝     ██╔████╔██║███████║   ██║      ██║   █████╗  ██████╔╝
-    ██║  ██║██╔══██║██╔══██╗██╔═██╗     ██║╚██╔╝██║██╔══██║   ██║      ██║   ██╔══╝  ██╔══██╗
-    ██████╔╝██║  ██║██║  ██║██║  ██╗    ██║ ╚═╝ ██║██║  ██║   ██║      ██║   ███████╗██║  ██║
-    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="7%"><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="7%">
 
 <div align="center">
 
-```
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⢠⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣤⣀⣀⣀⣤⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀
-                    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+# Hi 👋, I'm Priyanshu Kumar
 
-# ◢◤ PRIYANSHU KUMAR ◢◤
-
-```
-    ⟨ FULL STACK DEVELOPER • ENGINEERING STUDENT • CODE ARCHITECT ⟩
-             ∘₊✧──────✧₊∘∘₊✧──────✧₊∘∘₊✧──────✧₊∘
-```
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=60&lines=◦+CRAFTING+DIGITAL+EXPERIENCES+◦;◦+BUILDING+THE+FUTURE+◦;◦+CODE+•+DESIGN+•+INNOVATION+◦)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> **About Me** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25" /> 
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280">
+
+```javascript
+const priyanshu = {
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    education: "Engineering Student",
+    interests: ["Web Dev", "UI/UX"],
+    funFact: "I debug with console.log()"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="30"> 🔭 Passionate **self-taught developer**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> 🌱 Always exploring new technologies  
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> 💡 Love solving real-world problems  
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30"> 📫 **priyanshukp0463@gmail.com**
+
+<br clear="both">
 
 ---
 
-## ⟨▶ SYSTEM STATUS ⟩
-
-```
-╭───────────────────────────────────────────────────────────────╮
-│  ◉ STATUS: ACTIVE                                             │
-│  ◉ MODE: FULL STACK DEVELOPMENT                              │
-│  ◉ LOCATION: INDIA                                           │
-│  ◉ MISSION: TRANSFORMING IDEAS INTO DIGITAL REALITY          │
-╰───────────────────────────────────────────────────────────────╯
-```
+**Tech Stack** <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="30">
 
 <div align="center">
 
-```
-              ┌─────────────────────────────────────────┐
-              │  ⟨ PASSIONATE SELF-TAUGHT DEVELOPER ⟩  │
-              │                                         │
-              │    ▸ USER EXPERIENCE FOCUSED            │
-              │    ▸ ARCHITECTURAL DESIGN EXPERT        │
-              │    ▸ CODE QUALITY ENTHUSIAST            │
-              │    ▸ INNOVATIVE PROBLEM SOLVER          │
-              └─────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="45"> <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="45"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="45"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="45"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="45">
 
 </div>
-
-## ⟨▶ OPPORTUNITY MATRIX ⟩
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  🚀 SEEKING: INNOVATIVE PROJECTS & COLLABORATIONS                 ║
-║                                                                   ║
-║  ┌─ CONTACT PROTOCOL ─────────────────────────────────────────┐   ║
-║  │  📧 priyanshukp0463@gmail.com                             │   ║
-║  │  💭 "LET'S CREATE SOMETHING EXTRAORDINARY"                 │   ║
-║  └──────────────────────────────────────────────────────────────┘   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-## ⟨▶ NETWORK CONNECTIONS ⟩
 
 <div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"> <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50">
 
-```
-    ◢███◣     ◢███◣     ◢███◣     ◢███◣
-    ◥█▣█◤     ◥█▣█◤     ◥█▣█◤     ◥█▣█◤
-      █         █         █         █
-   GITHUB   LINKEDIN  TWITTER  INSTAGRAM
-```
-
-[![GitHub](https://img.shields.io/badge/◢◤_GITHUB_◢◤-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshu0463)
-[![LinkedIn](https://img.shields.io/badge/◢◤_LINKEDIN_◢◤-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukp0463)
-[![Twitter](https://img.shields.io/badge/◢◤_TWITTER_◢◤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/I_m_PriyanshuK)
-[![Instagram](https://img.shields.io/badge/◢◤_INSTAGRAM_◢◤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyanshu_0rie)
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" /> **Thanks for visiting!** <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="20" />
 
 </div>
 
-## ⟨▶ TECHNOLOGY STACK ⟩
-
-<div align="center">
-
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                    ◦ CORE SYSTEMS ◦                      ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-### Frontend Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-## ⟨▶ PERFORMANCE METRICS ⟩
-
-<div align="center">
-
-```
-    ╭─────────────────────────────────────────────────────╮
-    │             ◦ GITHUB ANALYTICS ◦                   │
-    ├─────────────────────────────────────────────────────┤
-    │                                                     │
-    │    ██████████████████████████████████████████       │
-    │         REPOSITORIES • COMMITS • CONTRIBUTIONS      │
-    │                                                     │
-    ╰─────────────────────────────────────────────────────╯
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu0463&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0463&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu0463&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-## ⟨▶ ACTIVITY MATRIX ⟩
-
-<div align="center">
-
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║                 ◦ CONTRIBUTION GRAPH ◦                   ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu0463&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true" alt="Contribution Graph" />
-
-</div>
-
-## ⟨▶ PRODUCTIVITY DASHBOARD ⟩
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                   ◦ CODING METRICS ◦                     ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  ◢◤ REPOSITORIES ────────────────────────── 25+ 📁       ║
-║  ◢◤ COMMITS THIS YEAR ──────────────────── 500+ 🔥       ║
-║  ◢◤ PULL REQUESTS ─────────────────────────  50+ ⚡       ║
-║  ◢◤ ISSUES RESOLVED ───────────────────────  30+ ✓       ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-## ⟨▶ FEATURED PROJECTS ⟩
-
-<div align="center">
-
-```
-    ┌─────────────────────────────────────────────────────┐
-    │                                                     │
-    │  🚀 SHOWCASING INNOVATION                           │
-    │                                                     │
-    │     ▸ FULL STACK APPLICATIONS                       │
-    │     ▸ RESPONSIVE WEB DESIGNS                        │
-    │     ▸ API INTEGRATIONS                              │
-    │     ▸ DATABASE ARCHITECTURES                        │
-    │                                                     │
-    └─────────────────────────────────────────────────────┘
-```
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshu0463&repo=your-project-name&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/priyanshu0463/your-project-name)
-
-</div>
-
-## ⟨▶ SUPPORT PROTOCOL ⟩
-
-<div align="center">
-
-```
-    ┌─────────────────────────────────────────────────────┐
-    │                                                     │
-    │  ☕ FUEL THE MISSION                                │
-    │                                                     │
-    │     ▸ YOUR SUPPORT POWERS INNOVATION                │
-    │     ▸ EVERY CONTRIBUTION MATTERS                    │
-    │     ▸ TOGETHER WE BUILD THE FUTURE                  │
-    │                                                     │
-    └─────────────────────────────────────────────────────┘
-```
-
-[![Buy Me A Coffee](https://img.shields.io/badge/◢◤_BUY_ME_A_COFFEE_◢◤-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyanshu0463)
-[![PayPal](https://img.shields.io/badge/◢◤_PAYPAL_◢◤-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/priyanshu0463)
-
-</div>
-
----
-
-<div align="center">
-
-```
-    ╔══════════════════════════════════════════════════════════╗
-    ║  ⟨ "CODE IS POETRY, DESIGN IS ART, INNOVATION IS MAGIC" ⟩ ║
-    ╚══════════════════════════════════════════════════════════╝
-```
-
-```
-    ∘₊✧ ─────────────────── ✧₊∘∘₊✧ ─────────────────── ✧₊∘
-            THANK YOU FOR VISITING MY DIGITAL SPACE
-    ∘₊✧ ─────────────────── ✧₊∘∘₊✧ ─────────────────── ✧₊∘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshu0463&style=for-the-badge&color=black&label=DIGITAL_VISITORS)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d0cfe7d1-0b8c-4e4a-9a66-875290ba6065" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="7%"><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/58e30265-7dc2-4977-83ab-66d4d1fa6ec3" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="7%"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="7%"><img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="7%">
