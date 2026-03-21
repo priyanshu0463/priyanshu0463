@@ -17,7 +17,7 @@ const priyanshu = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
     education: "Engineering Student",
-    interests: ["Web Dev", "UI/UX"],
+    interests: ["Web Dev", "AI/DL", "Deeptech"],
     funFact: "I debug with console.log()"
 };
 ```
