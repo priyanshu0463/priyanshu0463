@@ -2,7 +2,7 @@
 
 # Hey, I'm Priyanshu 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=sudo+apt-get+install+libaa-bin;Full-stack+by+day%2C+full+send+by+night;Arguing+with+YAML+indentation+since+2023;Ships+containers%2C+trains+models%2C+occasionally+reads+docs;git+commit+-m+fixed-it-probably;Turning+coffee+into+commits+and+commits+into+incidents" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=170&lines=sudo+apt-get+install+libaa-bin;aafire;;Full-stack+by+day%2C+full+send+by+night;Arguing+with+YAML+indentation+since+2023;Ships+containers%2C+trains+models%2C+occasionally+reads+docs;git+commit+-m+fixed-it-probably;Turning+coffee+into+commits+and+commits+into+incidents)
 
 > "It works on my machine" — now backed by two IEEE publications and one increasingly stressed Docker daemon.
 
