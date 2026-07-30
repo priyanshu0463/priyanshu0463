@@ -383,5 +383,4 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; f
 <rect x="111" y="138" width="11" height="11" fill="#39d353" rx="2"/>
 <rect x="125" y="138" width="11" height="11" fill="#69f0a0" rx="2"/>
 <text x="144" y="148" class="legend">More</text>
-<text x="391" y="173" class="stats" text-anchor="middle">0 contributions in the last year</text>
 </svg>

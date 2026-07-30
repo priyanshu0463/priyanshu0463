@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey, I'm Priyanshu 👋
-
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
 
 > "It works on my machine" — now backed by two IEEE publications and one increasingly stressed Docker daemon.

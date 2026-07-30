@@ -89,10 +89,7 @@ def render_heatmap_svg(output_path: str = "contrib-heatmap.svg"):
     
     lines.append(f'<text x="{legend_x + len(PALETTE) * (cell_size + cell_gap) + 5}" y="{legend_y}" class="legend">More</text>')
     
-    # Stats footer
-    stats_y = legend_y + 25
-    stats_text = f"{stats['total']:,} contributions in the last year"
-    lines.append(f'<text x="{svg_width // 2}" y="{stats_y}" class="stats" text-anchor="middle">{stats_text}</text>')
+    # Stats footer - removed to save space
     
     lines.append('</svg>')
     
