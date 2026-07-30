@@ -33,7 +33,7 @@ def render_heatmap_svg(output_path: str = "contrib-heatmap.svg"):
     grid_height = days_per_week * (cell_size + cell_gap)
     
     svg_width = grid_width + margin * 2
-    svg_height = grid_height + margin * 2 + 60  # Extra space for legend and stats
+    svg_height = grid_height + margin * 2 + 30  # Space for legend only
     
     lines = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}">',
