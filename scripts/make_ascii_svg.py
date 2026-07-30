@@ -6,11 +6,13 @@ from pathlib import Path
 from PIL import Image
 
 # Density ramp: space (brightest) to @ (darkest)
-RAMP = " .`:-=+*cs#%@"
+RAMP = " .:-=+*#%@"
 
 def brightness_to_char(brightness: int) -> str:
     """Map 0-255 brightness to ASCII character."""
-    index = int((1 - brightness / 255.0) * (len(RAMP) - 1))
+    # Invert and boost contrast
+    adjusted = max(0, min(255, int((brightness - 100) * 1.5 + 100)))
+    index = int((1 - adjusted / 255.0) * (len(RAMP) - 1))
     return RAMP[index]
 
 def make_ascii_svg(

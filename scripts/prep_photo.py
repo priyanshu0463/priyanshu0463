@@ -21,8 +21,11 @@ def prep_photo(source_path: str, output_path: str = "source-prepped.png"):
     
     # Step 3: Apply CLAHE for local contrast enhancement
     print("Boosting contrast...")
-    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
     enhanced = clahe.apply(gray)
+    
+    # Boost brightness overall
+    enhanced = np.clip(enhanced * 1.3 + 30, 0, 255).astype(np.uint8)
     
     # Step 4: Composite onto white background
     # Get alpha channel from original no_bg image
