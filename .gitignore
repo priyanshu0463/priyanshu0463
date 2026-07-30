@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Intermediate files (regenerate as needed)
+source-prepped.png
+
+# Keep these for local reference but don't track every change
+*.log
+.DS_Store
